@@ -1,0 +1,323 @@
+﻿<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Informatica</title>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<link rel="shortcut icon" type="image/x-icon" href="Imagenes/Favicon.webp">
+</head>
+<body bgcolor = "#D6A6E3">
+	<form id="contact_form" action="https://mail.google.com/mail/u/0/#inbox" method="POST" enctype="multipart/form-data">
+	<div class="row">
+		<label for="name">Tu nombre:</label><br />
+		<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="email">Tu email:</label><br />
+		<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="message">Tu mensaje:</label><br />
+		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+	</div>
+	<input id="submit_button" type="submit" value="Enviar" />
+</form>						
+
+	<header>
+		<div class="Logo">
+		<center>
+			<img src= "C:\Users\Cristopher Nawel CV\Desktop\Index\img\foto-portada-webon.png" width="500" alt="">
+			</center>
+		</div>
+		
+	</header>
+
+	<section class="main">
+		<section class="articles">
+			<article>
+				<h2>Diseño Web</h2>
+               <img src= "C:\Users\Cristopher Nawel CV\Desktop\Index\Imagenes\diseno-web-responsive.png" width="250" height= "150">
+               <p>El diseño web es una actividad que consiste en la planificación, diseño e implementación de sitios web. Un diseñado r web tiene que ver con cómo crear y desarrollar un pagina web así también como los clientes interactúan con ella.</p>
+			</article>
+			<article>
+				<h2>Programacion</h2>
+               <img src= "C:\Users\Cristopher Nawel CV\Desktop\Index\Imagenes\informatico-01.gif" width="250" height= "150">
+               <p>La programación informática o programación algorítmica, acortada como programación, es el proceso de diseñar, codificar, depurar y mantener el código fuente de programas de computadora. El código fuente es escrito en un lenguaje de programación.</p>
+			</article>
+
+			</article>
+			<article>
+				<h2>Redes</h2>
+               <img src= "C:\Users\Cristopher Nawel CV\Desktop\Index\Imagenes\Imagen-animada-Redes-01.gif" width="225" height= "125">
+               <p>Una red informática es un conjunto de dispositivos interconectados entre sí a través de un medio, que intercambian información y comparten recursos. Básicamente, la comunicación dentro de una red informática es un proceso en el que existen dos roles bien definidos para los dispositivos conectados, emisor y receptor, que se van asumiendo y alternando en distintos instantes de tiempo.
+
+También hay mensajes, que es lo que estos roles intercambian. La estructura y el modo de funcionamiento de las redes informáticas actuales están definidos en varios estándares, siendo el más extendido de todos el modelo TCP/IP, basado en el modelo de referencia o teórico OSI.</p>
+			</article>
+		</section>
+
+		<article>
+				<h2>Bienvenido, estamos para orientarte</h2>
+				<p>
+					Aqui te facilitaremos los conocimientos mas basicos, y abansados en informatica comiensa tu trayecto al aprendisaje de esta bella materia para nosotros la madre de las ciencias.
+				</p>
+			</article>
+		</section>
+		<h1>
+	Formulario de confirmación
+</h1>
+<form action="mailto:abitocris@gmail.com" method="POST" enctype="text/PLAIN">
+	¿Cual es tu tema favorito?
+	<br>
+	<input type="radio" name="SistemaOperativo">
+	<Value="Redes" CHECKED>	Redes
+	<input type="radio" name="SistemaOperativo">
+	<value="Programacion" CHECKED>Programacio
+	<input type="radio" name="SistemaOperativo">
+	<Value="Diseño Web" CHECKED>Diseño Web
+</form>
+
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Aprendiendo con un clic</title>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<link rel="shortcut icon" type="image/x-icon" href="Imagenes/Favicon.webp">
+</head>
+<body>
+
+
+
+	<section class="main">
+		<section class="articles">
+			<article>
+				<b><h2>Programacion</h2></b>
+				<p>
+				
+
+La programación informática es el proceso por medio del cual se diseña, codifica, limpia y protege el código fuente de programas computacionales. A través de la programación se dictan los pasos a seguir para la creación del código fuente de programas informáticos. De acuerdo con ellos el código se escribe, se prueba y se perfecciona.
+				</p>
+
+				<p>El objetivo de la programación es la de crear software, que después será ejecutado de manera directa por el hardware de la computadora, o a través de otro programa.</p>
+				<p>La programación se guía por una serie de reglas y un conjunto pequeño de órdenes, instrucciones y expresiones que tienden a parecerse a una lengua natural acotada. El lenguaje de programación, son todas aquellas reglas o normas, símbolos y palabras particulares empleadas para la creación de un programa y con él, ofrecerle una solución a un problema determinado.</p>
+
+				<p>El lenguaje de programación es el responsable de que la computadora siga paso a paso las órdenes que el programador ha diseñado en el algoritmo. Con esto se entiende que el lenguaje de programación es una especie de intermediario entre el ordenador y el usuario, para que este último pueda darle respuesta a los problemas mediante la computadora y haciendo uso de palabras (funciones), que le interpretan dicho programa al computador para la realización de ese trabajo.</p>
+
+				<p>Ahora bien, dependiendo del lenguaje que se elija, se puede hablar del tipo de programación que se va a realizar. Algunos de ellos son:</p>
+
+				<p>Programación secuencial: son aquellos programas que se diseñan con directrices que van en secuencia una detrás de la otra. Por ejemplo: Cobol, Basic.</p>
+
+				<p>Programación estructurada: se considera así, cuando la programación es diseñada por módulos. Cada módulo realiza una tarea en especial, y cuando se requiera de esa tarea, sencillamente se le hace el llamado a ese módulo. Por ejemplo: Turbo Pascal, Ada, Modula.</p>
+
+				<p>Programación orientada a objetos: son aquellos lenguajes que permiten la implementación de objetos dentro del diseño del mismo y el usuario podrá pegar a cada objeto un código de programa. Algunos de estos son: Java, Xml, entre otros.</p>
+
+				<p>Programación lógica o de lenguaje natural: son aquellos programas que se diseñan con interfaces, de tal manera que el usuario pueda darle ordenes a la máquina utilizando un lenguaje simple. Por ejemplo: Prolog.</p>
+
+				<p>Programación de inteligencia artificial: son aquellos programas que más se acercan a la inteligencia humana, ya que tienen la capacidad de desarrollar conocimiento. Este tipo de lenguaje trabaja de una manera muy semejante a la mente humana.</p>
+
+
+			</article>
+			<article>
+				<center><h2>A un clic del aprendizaje.</h2></center>
+				<p>
+				<center>
+					
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/U3CGMyjzlvM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<br>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/YFdXfehe2bo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</center>
+				</p>
+			</article>
+		</section>
+
+		<aside>
+			<h3>Videos que debes ver</h3>
+			<p>
+				<iframe width="260" height="250" src="https://www.youtube.com/embed/kbWXXjoydQ8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<br>
+				<br>
+				<iframe width="260" height="250" src="https://www.youtube.com/embed/k2Xw8ENcgVk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<br>
+				<br>
+				<iframe width="260" height="250" src="https://www.youtube.com/embed/XAkLdkf4geQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			</p>
+		</aside>
+	</section>
+
+	<footer>
+		<p>Aprendiendo con un clic - Erik Nawel</p>
+	</footer>
+
+</body>
+</html>
+
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Aprendiendo con un clic</title>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<link rel="shortcut icon" type="image/x-icon" href="Imagenes/Favicon.webp">
+</head>
+<body>
+
+
+	<section class="main">
+		<section class="articles">
+			<article>
+				<h2>Diseño Web</h2>
+                 <p>
+                 	El diseño de páginas web es la construcción de documentos de hipertexto para su visualización en diferentes navegadores. Así como asignarle una presentación para diferentes dispositivos de salida (en una pantalla de computador, en papel, en un teléfono móvil, etc).
+                 </p>
+
+				<p>
+				<b>Estos documentos o paginas Web Pueden Ser Creadas:</b>
+
+<ul>
+<li>Creando archivos de texto en HTML, Asp, Aspx, JavaScript, JSP, Python, Ruby.</li>
+
+<li>Utilizando un programa visual WYSIWYG o WYSIWYM de creación de páginas.</li>
+
+<li>Utilizando Script del lado del servidor, para generar la página web.</li>
+</ul>
+				</p>
+			</article>
+			<article>
+				<h2>Etapas:</h2>
+				
+				<p>Para el diseño de páginas web debemos tener en cuenta tres etapas:</p>
+
+				<p>
+
+				<ul>
+					<li>El diseño visual de la información que se desea editar. En esta etapa se trabaja distribuyendo el texto, los gráficos, los vínculos a otros documentos y otros objetos multimedia que se consideren pertinentes. Es importante que antes de 'escribir' la página web se realice un boceto o prediseño. Esto facilitará tener un orden claro sobre el diseño. </li>
+
+<p><li>Estructura y relación jerárquica de las páginas del sitio web. Para esto, y fundamentalmente para manejar los vínculos entre documentos, se creó el lenguaje de marcación de hipertexto o HTML. Los enlaces que aparecen subrayados en este documento y otros de Wikipedia son ejemplos de hipertexto, puesto que al pulsar sobre ellos conducen a otras páginas con información relacionada. La importancia de la estructura y arborescencia web radica en que los usuarios no siempre entran por la página principal o inicial y en ese caso el sitio debe darle la respuesta a lo que busca rápido, además permitirle navegar por el sitio.</li></p>
+
+<li>Posicionamiento en buscadores o SEO. Ésta consiste en optimizar la estructura del contenido para mejorar la posición en que aparece la página en determinada búsqueda.</li>
+
+</ul>
+				</p>
+
+				<p>El HTML consta de una serie de elementos que estructuran el texto y son presentados en forma de hipertexto por agente de usuario o navegadores. Esto se puede hacer con un simple editor de textos (debe guardarse como texto plano, sin ningún tipo de formato y con extensión .html o .htm). Aprender HTML es relativamente fácil, así que es sencillo crear páginas web de este modo. Esta era la única manera de generarlas hasta que aparecieron, a mediados de 1996, algunos editores visuales de HTML, como MS FrontPage y Adobe Dreamweaver. Con estas herramientas no es necesario aprender HTML (aunque sí aconsejable), con lo cual el desarrollador se concentra en lo más importante, el diseño del documento.
+
+Un buen diseño web es aquel que considera dentro de su desarrollo tanto los elementos básicos del diseño gráfico (la diagramación, el color, los gráficos y las fuentes) como los fundamentos técnicos (estructura, compatibilidad, funcionalidad e interactividad) para crear tanto el impacto visual como la experiencia de usuario óptima para la asimilación del contenido.</p>
+
+			</article>
+		</section>
+
+		<aside>
+			<h3></h3>
+			<p>
+				<img src="C:\Users\Cristopher Nawel CV\Desktop\Index\Imagenes\Computador.gif" width="285" alt="">
+			</p>
+		</aside>
+	</section>
+
+	<footer>
+		<p>Aprendiendo con un clic - Erik Nawel</p>
+	</footer>
+
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Aprendiendo con un clic</title>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<link rel="shortcut icon" type="image/x-icon" href="Imagenes/Favicon.webp">
+</head>
+<body>
+
+	<section class="main">
+		<section class="articles">
+			<article>
+				<b><h2>Redes.</h2></b>
+				<p>
+					Que es una red en Informatica.
+Una red informática es un conjunto de dispositivos interconectados entre sí a través de un medio, que intercambian información y comparten recursos. Básicamente, la comunicación dentro de una red informática es un proceso en el que existen dos roles bien definidos para los dispositivos conectados, emisor y receptor, que se van asumiendo y alternando en distintos instantes de tiempo.
+				</p>
+			</article>
+			<article>
+				<b><h2>Topologia de redes.</h2></b>
+				<p>Una topología de red es la disposición de una red, incluyendo sus nodos y líneas de conexión. Hay dos formas de definir la geometría de la red: la topología física y la topología lógica (o de señal).</p>
+
+			    <p>La topología física de una red es la disposición geométrica real de las estaciones de trabajo. Existen varias topologías físicas comunes, como se describe a continuación y como se muestra en la ilustración.</p>
+
+			    <p>La topología lógica (o de señal) se refiere a la naturaleza de los caminos que siguen las señales de nodo a nodo. En muchos casos, la topología lógica es la misma que la topología física. Pero no siempre es así. Por ejemplo, algunas redes se disponen físicamente en una configuración en estrella, pero funcionan lógicamente como redes de bus o de anillo.</p>
+				<p>
+
+<img src="C:\Users\Cristopher Nawel CV\Desktop\Index\Imagenes\Topología_de_red.png" width="600" alt="">
+					</p>
+			</article>
+		</section>
+          
+
+
+		<aside>
+			<b><h3>Velocidades de conexión</h3></b>
+			<p>
+				La velocidad a la cual viaja la información en una red está dada por la velocidad máxima que soporta el medio de transporte. Entre los medios más comunes podemos afirmar que la fibra óptica es la más veloz, con aproximadamente 2 Gbps; después le sigue el par trenzado, con 100 Mbps a 1000 Mbps; y por último, las conexiones Wi-Fi, con 54 Mbps en promedio. Las velocidades pueden variar de acuerdo con los protocolos de red utilizados.
+
+			<br>
+
+			Este post fue extraído de la colección Técnico en Redes y Seguridad, que está compuesta por 24 fascículos, 4 libros, 3 ebooks y un coleccionador. Para conocer más detalles o adquirir este curso, visitar el sitio oficial en USERShop.
+‎
+<h1> <b> Calificacion de las redes segun su alcance</b></h1>
+			</p>
+			<table border="2">
+<tr>
+
+
+<td> Redes </td> <td> Distribucion de las redes </td> <td>
+<tr>
+<td>PAN</td> <td>Red de area personal</td> <td> 
+<tr>
+<td>LAN</td> <td>Red de area local</td> <td> 
+<tr>
+<td>CAN</td> <td>Red de area de campus </td> <td>  
+<tr>
+<tr>
+<td>MAN</td> <td>Red de area metropolitana</td> <td>  
+<tr>
+	<tr>
+<td>WAN</td> <td>Red de area amplia</td> <td> 
+<tr>
+	<tr>
+<td>SAN</td> <td>Red de area de almacenamiento</td> <td>  
+<tr>
+	<tr>
+<td>VLAN</td> <td>Red de area local virtual</td> <td>  
+<tr>
+	<center>
+<table border="2">
+<tr>
+		</aside>
+	</section>
+
+	<footer>
+		<center><p>Aprendiendo con un clic - Erik Nawel</p></center>
+	</footer>
+
+</body>
+</html>
+
+
+
+		<aside>
+			<b><Center><h3>Aprendiendo con un clic</h3></center></b>
+			<p>
+				<Center><img src="C:\Users\Cristopher Nawel CV\Desktop\Index\Imagenes\inf.gif" width="250" alt=""></Center>
+			</p>
+		</aside>
+	</section>
+
+	<footer>
+		<Center><p>Aprendiendo con un clic - Erik Nawel</p></Center>
+	</footer>
+
+</body>
+</html>
